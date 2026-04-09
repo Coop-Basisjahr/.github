@@ -49,6 +49,6 @@ pull() {
 Wenn es nun von einer Übung ein `uebung__` und `solution__` Repository gibt, können diese mit z.B. `pull my-assignment` geclont werden. Das Script erstellt ein neues Repository mit zwei Branches.
 
 - `main` ist mit dem Übungsrepository verknüpft.
-- `solution` ist mit dem Übungsrepository verknüpft.
+- `solution` ist mit dem Lösungsrepository verknüpft.
 
 Bearbeite die Übung und Lösung lokal und pushe die Branches wie gewohnt.
